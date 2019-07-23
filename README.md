@@ -9,7 +9,7 @@ https://easyreadtime.netlify.com/
 
 If you believe there to be an issue with this site please [submit an issue](https://github.com/Alex61NN5/easy-read-time/issues).
 
-If you believe there to be an issue with [easy-social-share-links](https://github.com/Alex61NN5/easy-read-time) please [submit an issue here](https://github.com/Alex61NN5/easy-read-time/issues)
+If you believe there to be an issue with [easy-read-time](https://github.com/Alex61NN5/easy-read-time) please [submit an issue here](https://github.com/Alex61NN5/easy-read-time/issues)
 
 ## Contribution
 
