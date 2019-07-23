@@ -1,0 +1,20 @@
+{
+  "name": "easy-read-time-demo",
+  "version": "1.0.0",
+  "description": "Easily Generate Medium like read times",
+  "author": "Alex Ginns",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "easy-read-time": "^1.0.6",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
