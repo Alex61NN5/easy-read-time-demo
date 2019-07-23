@@ -5,8 +5,7 @@ export default {
    */
   head: {
     title: "Easy Read Time",
-    meta: [
-      {
+    meta: [{
         charset: "utf-8"
       },
       {
@@ -16,16 +15,13 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: process.env.npm_package_description || ""
+        content: "Easily generate Medium like read times"
       }
     ],
-    link: [
-      {
-        rel: "stylesheet",
-        href:
-          "https://fonts.googleapis.com/css?family=Merriweather|Montserrat:900|Ubuntu+Mono&display=swap"
-      }
-    ]
+    link: [{
+      rel: "stylesheet",
+      href: "https://fonts.googleapis.com/css?family=Merriweather|Montserrat:900|Ubuntu+Mono&display=swap"
+    }]
   },
   /*
    ** Customize the progress-bar color
@@ -36,7 +32,9 @@ export default {
   /*
    ** Global CSS
    */
-  css: ["~/assets/styles/global.scss"],
+  css: [
+    '~/assets/styles/global.scss'
+  ],
   /*
    ** Plugins to load before mounting the App
    */
