@@ -50,7 +50,7 @@
   .scrollbar-hidden {
     height: 400px;
     border: none;
-    margin: 0px -300px 0px 15px;
+    margin: 0px -300px 0px 17px;
   }
 
   .read-time {
